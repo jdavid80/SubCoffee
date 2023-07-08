@@ -14,7 +14,7 @@
 
 .main-img {
     color: aliceblue;
-    background-color: rgb(229, 103, 14);
+    background-color: rgb(176, 35, 7);
     display: grid;
     background-image: url(../img/nequi);
     grid-template: 570px/ 100%;
@@ -23,11 +23,11 @@
 
 .logo {
     color: aliceblue;
-    background-color: rgb(33, 0, 73);
+    background-color: rgb(247, 83, 7);
 }
 
 .options {
-    background-color: rgb(234, 234, 234);
+    background-color: rgba(228, 98, 38, 0.582);
 }
 
 .btn1,
@@ -36,11 +36,11 @@
 }
 
 .btn1 {
-    border: 1px solid rgb(255, 47, 115);
+    border: 1px solid rgb(247, 83, 7);
 }
 
 .btn {
-    background-color: rgb(255, 47, 115);
+    background-color: rgb(247, 83, 7);
 }
 
 .txt {
@@ -62,7 +62,7 @@
     border-radius: 100px;
     width: 391px;
     height: 56px;
-    background-color: #210049;
+    background-color: rgb(247, 83, 7);
 }
 
 /*  tarjetas */
@@ -90,7 +90,7 @@
     color: aliceblue;
     width: 282px;
     height: 230px;
-    background-color: rgb(74, 0, 99);
+    background-color: rgb(178, 64, 10);
     border-top-right-radius: 29px;
     border-top-left-radius: 29px;
 }
@@ -102,9 +102,9 @@
 
 .btn-tarjeta {
     color: aliceblue;
-    background-color: #4376FF;
+    background-color: rgb(176, 35, 7);
     width: 250px;
-    height: 56px;
+    height: 60px;
     position: relative;
     left: 17px;
     border-radius: 100px;
@@ -112,7 +112,7 @@
 }
 
 .second-img {
-    background-color: #C8F7F3;
+    background-color:rgb(176, 35, 7);
     display: grid;
     background-image: url(../img/second-img.png);
     grid-template: 699px/ 100%;
@@ -136,7 +136,7 @@
 
 .third-img {
     display: grid;
-    background-color: #FF2F73;
+    background-color: rgb(185, 52, 15);
     grid-template: 800px/ 100%;
 
 }
@@ -153,7 +153,7 @@
 }
 
 .tarjeta-option {
-    color: #FF2F73;
+    color:rgb(247, 59, 7);
     border-radius: 29px;
     background-color: aliceblue;
 }
@@ -167,13 +167,13 @@
     border: none;
     width: 118px;
     height: 46px;
-    background-color: #210049;
+    background-color: rgb(247, 84, 9);
 }
 
 /* footer */
 .footer {
     height: 799px;
-    background-color: #210049;
+    background-color:rgb(247, 83, 7);
 }
 
 .powerby {
@@ -255,7 +255,7 @@
 
     .icon {
         display: block;
-        padding: 18px 0px 0px 30px;
+        padding: 10px 0px 0px 40px;
     }
 
     .main-img {
@@ -326,14 +326,13 @@
 @media only screen and (min-width: 767px) and (max-width: 1331px) {
     .icon {
         display: block;
-        padding: 25px 0px 0px 30px;
+        padding: 15px 0px 0px 50px;
     }
     .second-img {
         overflow: hidden;
     }
 
     .cont {
-        background-color: aliceblue;
         /* C centra todo normal y queda fino */
         grid-template: 80px/100px 0.8fr 60px;
     }
