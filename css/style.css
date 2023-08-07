@@ -14,7 +14,7 @@
 
 .main-img {
     color: aliceblue;
-    background-color: rgb(176, 35, 7);
+    background-color: #351f16;
     display: grid;
     background-image: url(../img/nequi);
     grid-template: 570px/ 100%;
@@ -23,11 +23,11 @@
 
 .logo {
     color: aliceblue;
-    background-color: rgb(247, 83, 7);
+    background-color: #6e4a37;
 }
 
 .options {
-    background-color: rgba(228, 98, 38, 0.582);
+    background-color: #d6b097;
 }
 
 .btn1,
@@ -36,11 +36,11 @@
 }
 
 .btn1 {
-    border: 1px solid rgb(247, 83, 7);
+    border: 1px solid #6e4a37;
 }
 
 .btn {
-    background-color: rgb(247, 83, 7);
+    background-color: #6e4a37;
 }
 
 .txt {
@@ -62,7 +62,7 @@
     border-radius: 100px;
     width: 391px;
     height: 56px;
-    background-color: rgb(247, 83, 7);
+    background-color: #6e4a37;
 }
 
 /*  tarjetas */
@@ -90,7 +90,7 @@
     color: aliceblue;
     width: 282px;
     height: 230px;
-    background-color: rgb(178, 64, 10);
+    background-color: #3a291c;
     border-top-right-radius: 29px;
     border-top-left-radius: 29px;
 }
@@ -102,7 +102,7 @@
 
 .btn-tarjeta {
     color: aliceblue;
-    background-color: rgb(176, 35, 7);
+    background-color: #351f16;
     width: 250px;
     height: 60px;
     position: relative;
@@ -112,7 +112,7 @@
 }
 
 .second-img {
-    background-color:rgb(176, 35, 7);
+    background-color:#351f16;
     display: grid;
     background-image: url(../img/second-img.png);
     grid-template: 699px/ 100%;
@@ -136,7 +136,7 @@
 
 .third-img {
     display: grid;
-    background-color: rgb(185, 52, 15);
+    background-color: #5f432f;
     grid-template: 800px/ 100%;
 
 }
@@ -167,13 +167,13 @@
     border: none;
     width: 118px;
     height: 46px;
-    background-color: rgb(247, 84, 9);
+    background-color: #6e4b39;
 }
 
 /* footer */
 .footer {
     height: 799px;
-    background-color:rgb(247, 83, 7);
+    background-color:#6e4a37;
 }
 
 .powerby {
