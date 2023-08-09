@@ -73,7 +73,7 @@ section .content{
     transition: .5s;
 }
 .content a:hover{
-    background-color: #797979;
+    background-color: #313131;
 }
 
 .login{
