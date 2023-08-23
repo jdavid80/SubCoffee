@@ -87,8 +87,8 @@ section .content{
 .login h2{
     margin-top: 25px;
     text-align: center;
-    color: rgb(0, 0, 0);
-    font-size: 2em;
+    color: rgb(255, 255, 255);
+    font-size: 3em;
 }
 .input-box{
     position: relative;
